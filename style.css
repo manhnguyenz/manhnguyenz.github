@@ -1,32 +1,23 @@
 *{margin: 0; padding: 0;}
 
 .khoi5 {
-    height: 680px !important;
-    align-items: center;
-    padding: 80px 0;
+    padding-top: 60px;
 }
 
 .khoi4 {
-    height: 680px !important;
-    align-items: center;
-    padding: 80px 0 0 0;
+    padding-top: 60px;
 }
 
 .khoi3 {
-    align-items: center;
-    padding: 80px 0 0 0;
+    padding-top: 60px;
 }
 
 .khoi2 {
-    height: 680px !important;
-    align-items: center;
-    padding: 80px 0 0 0;
+    padding-top: 60px;
 }
 
 .khoi1 {
-    height: 650px !important;
-    align-items: center;
-    padding: 80px 0 0 0;
+    padding-top: 60px;
 }
 
 .kic4 {
@@ -126,6 +117,7 @@ img.pr4 {
 
 .bg5 {
     background: linear-gradient(45deg, var(--h), #7c22b566)!important;
+    margin-bottom: 50px;
 }
 
 .form {
@@ -240,21 +232,13 @@ p.cn {
     color: var(--t);
 }
 
-.nd4 {
-    padding: 36px 36px 0 61px;
-    font-weight: 500;
-}
-
 .mt4 {
     display: flex;
     justify-content: space-between;
-    line-height: 12px;
+    line-height: 16px;
     font-size: 16px;
-    padding: 0 120px;
-}
-
-.p2 {
-    padding: 0 56px;
+    padding-right: 240px;
+    margin-bottom: 12px;
 }
 
 .td2 {
@@ -324,9 +308,10 @@ p.cn {
 
 .mota1 {
     margin-left: 40px;
-    width: 320px;
+    width: 400px;
     margin-top: 40px;
     color: white;
+    line-height: 28px;
 }
 
 p.ten {
@@ -348,7 +333,6 @@ img.anh1 {
     height: 500px;
     margin-top: 60px;
     box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.4);
-    margin-bottom: 60px;
 }
 
 .item {
